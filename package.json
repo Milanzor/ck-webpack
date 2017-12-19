@@ -21,6 +21,6 @@
         "sass-loader": "^6.0.6",
         "webpack": "^3.10.0",
         "webpack-dev-server": "^2.9.5",
-        "wildcards-entry-webpack-plugin": "^2.1.0"
+        "wildcards-entry-webpack-plugin": "https://github.com/Milanzor/wildcards-entry-webpack-plugin.git"
     }
 }
